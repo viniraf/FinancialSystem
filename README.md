@@ -3,7 +3,7 @@
 ## Informações 
 
 * Esse é um projeto feito para treinar minhas habilidades de front-end, com foco no Javascript;
-* O projeto é uma pagina web com um sistema financeiro para controle de despesas e receitas;
+* O projeto é uma página web com um sistema financeiro para controle de despesas e receitas;
 * É possível adicionar e deletar e despesas receitas;
 * O saldo fica salvo mesmo recarregando a página.
 
